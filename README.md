@@ -1,6 +1,11 @@
 # 👽 Hey, I’m Samuel
 
-<img src="./glorp.jpg" alt="Glorp the cat" width="300" style="border-radius:10px;"/>
+<div align="center">
+  <img src="./glorp.jpg" alt="Glorp alien cat" width="250" style="border-radius:10px; margin-right: 20px;"/>
+  <img src="./glorpNormal.jpg" alt="Normal Glorp" width="250" style="border-radius:10px;"/>
+</div>
+
+---
 
 🎓 Java Application Development student at **Nexa**  
 🎨 Previously trained in Front-End Development @OpenClassrooms  
@@ -24,5 +29,3 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SamuelSacristan&show_icons=true&theme=tokyonight&hide_rank=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSacristan&layout=compact&theme=tokyonight)
-
----
